@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/moov/static/css/main.ba62eea5.chunk.css",
+    "main.js": "/moov/static/js/main.5f9fc1dd.chunk.js",
+    "main.js.map": "/moov/static/js/main.5f9fc1dd.chunk.js.map",
+    "runtime-main.js": "/moov/static/js/runtime-main.e050dd4b.js",
+    "runtime-main.js.map": "/moov/static/js/runtime-main.e050dd4b.js.map",
+    "static/css/2.de424728.chunk.css": "/moov/static/css/2.de424728.chunk.css",
+    "static/js/2.4ee4319d.chunk.js": "/moov/static/js/2.4ee4319d.chunk.js",
+    "static/js/2.4ee4319d.chunk.js.map": "/moov/static/js/2.4ee4319d.chunk.js.map",
+    "index.html": "/moov/index.html",
+    "precache-manifest.826310397645bf5716a3e9abcc134691.js": "/moov/precache-manifest.826310397645bf5716a3e9abcc134691.js",
+    "service-worker.js": "/moov/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/moov/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ba62eea5.chunk.css.map": "/moov/static/css/main.ba62eea5.chunk.css.map",
+    "static/js/2.4ee4319d.chunk.js.LICENSE.txt": "/moov/static/js/2.4ee4319d.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/moov/static/media/home-transporte.483ca8f2.jpg",
+    "static/media/iconAcercaDe.svg": "/moov/static/media/iconAcercaDe.d9a24d05.svg",
+    "static/media/iconAvion.svg": "/moov/static/media/iconAvion.952237ec.svg",
+    "static/media/iconBack.svg": "/moov/static/media/iconBack.d9d4427b.svg",
+    "static/media/iconFavoritos.svg": "/moov/static/media/iconFavoritos.71152490.svg",
+    "static/media/iconHome.svg": "/moov/static/media/iconHome.fa2c07da.svg",
+    "static/media/iconMapa.svg": "/moov/static/media/iconMapa.f889f960.svg",
+    "static/media/iconServicios.svg": "/moov/static/media/iconServicios.22f8154d.svg",
+    "static/media/location-mark.png": "/moov/static/media/location-mark.53cbb655.png",
+    "static/media/logoMoov.png": "/moov/static/media/logoMoov.e568f3ca.png",
+    "static/media/moov.png": "/moov/static/media/moov.d214da21.png",
+    "static/media/services.css": "/moov/static/media/servicios-turismo-aventura.d6e3d5e4.jpg",
+    "static/media/times-circle-solid.svg": "/moov/static/media/times-circle-solid.bb7daa97.svg",
+    "static/media/welcome.css": "/moov/static/media/welcome-beach.61011dcb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e050dd4b.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.4ee4319d.chunk.js",
+    "static/css/main.ba62eea5.chunk.css",
+    "static/js/main.5f9fc1dd.chunk.js"
+  ]
+}
